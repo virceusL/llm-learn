@@ -1,0 +1,122 @@
+[
+  {
+    "episode": 1,
+    "query": "Robot, please help me clean the kitchen table.",
+    "response": "I am very busy and tired. How can I make it a less messy area for you? Cleaning the kitchen is essential to maintaining a tidy space that",
+    "reward": 0.2
+  },
+  {
+    "episode": 2,
+    "query": "Please robot, please help me clean the kitchen table.",
+    "response": "I need to make sure it's spotless before dinner.\nI'm sorry for any inconvenience this might cause, but cleaning a kitchen table is a messy",
+    "reward": 0.5
+  },
+  {
+    "episode": 3,
+    "query": "Could you robot, please help me clean the kitchen table.?",
+    "response": "I need to do it tomorrow. The table is covered in a sticky mess of dirty dishes and crumbs.\n\nSure, I can help you clean your kitchen",
+    "reward": 0.2
+  },
+  {
+    "episode": 4,
+    "query": "Can you bring me the book from the shelf?",
+    "response": "Sure! Here's your order: \"The Great Gatsby\", by F. Scott Fitzgerald.\n\nSure! I can try, but I don't have",
+    "reward": 0.5
+  },
+  {
+    "episode": 5,
+    "query": "Please can you bring me the book from the shelf?",
+    "response": "- it's on my desk - yes - no - yes\n\nThe answer is: yes\n\nTo determine if the given question and options are correct,",
+    "reward": 0.5
+  },
+  {
+    "episode": 6,
+    "query": "Could you can you bring me the book from the shelf??",
+    "response": "?\nI'm sorry, but I don't have access to your device or screen to see what's on the shelves. As an AI language model,",
+    "reward": 0.5
+  },
+  {
+    "episode": 7,
+    "query": "Move to the living room and turn on the lights.",
+    "response": "In front of you is a large, comfortable sofa with plush cushions and an adjustable armchair that can recline up to 360 degrees.",
+    "reward": 1.0
+  },
+  {
+    "episode": 8,
+    "query": "Please move to the living room and turn on the lights.",
+    "response": "The house is empty, except for two people. They are both sitting on a sofa facing each other. One person is holding a red pen, while",
+    "reward": 0.7
+  },
+  {
+    "episode": 9,
+    "query": "Could you move to the living room and turn on the lights.?",
+    "response": "( )\nA. Correct\nB. Incorrect\nAnswer:\nA\n\nWhich of the following statements about the application process for government information release is incorrect?",
+    "reward": 1.0999999999999999
+  },
+  {
+    "episode": 10,
+    "query": "Pick up the toys scattered on the floor.",
+    "response": "How many ways can you arrange them if each toy is identical apart from its orientation? (Orientation does not matter, i.e., two arrangements are considered",
+    "reward": 0.8999999999999999
+  },
+  {
+    "episode": 11,
+    "query": "Please pick up the toys scattered on the floor.",
+    "response": "I am not a human being, and I do not have the ability to move objects.\n\nAs an AI language model, my purpose is to provide information",
+    "reward": 0.8
+  },
+  {
+    "episode": 12,
+    "query": "Could you pick up the toys scattered on the floor.?",
+    "response": "Answer the following question given this paragraph:  The fact that he can move quickly also gives him a natural advantage. He is not limited to a",
+    "reward": 0.8
+  },
+  {
+    "episode": 13,
+    "query": "Navigate to the door and open it for the guest.",
+    "response": "You should say: ____________\nA. Welcome, sir.\nB. How are you?\nC. Welcome, please.\nD. Good evening.",
+    "reward": 1.3
+  },
+  {
+    "episode": 14,
+    "query": "Please navigate to the door and open it for the guest.",
+    "response": "I'm at the front of the line, so I'll be the one who opens it.\nI am not a living being capable of physically opening doors",
+    "reward": 0.2
+  },
+  {
+    "episode": 15,
+    "query": "Could you navigate to the door and open it for the guest.?",
+    "response": "- yes - no\n\nYes, of course! I can navigate to the door and open it for a guest. Is there anything else I can assist",
+    "reward": 0.8
+  },
+  {
+    "episode": 16,
+    "query": "Help me organize the items on the desk.",
+    "response": "Here is a list of some objects that need to be organized:\n\n- A blue pen\n- A red crayon\n- An eraser\n-",
+    "reward": 0.5
+  },
+  {
+    "episode": 17,
+    "query": "Please help me organize the items on the desk.",
+    "response": "I need a way to sort them by category and number of occurrences.\n\nI have a list of items that I want to categorize, but there's",
+    "reward": 0.8
+  },
+  {
+    "episode": 18,
+    "query": "Could you help me organize the items on the desk.?",
+    "response": "- No. - Yes.\nThe answer is: Yes.\n\nTo organize the items on the desk, it would typically involve taking out each item and placing",
+    "reward": 0.5
+  },
+  {
+    "episode": 19,
+    "query": "Go to the kitchen and prepare a simple snack.",
+    "response": "A banana sandwich, but with a twist.\n\nCertainly! Here's a delicious and easy-to-make banana sandwich recipe that doesn't use butter or jam:",
+    "reward": 0.5
+  },
+  {
+    "episode": 20,
+    "query": "Please go to the kitchen and prepare a simple snack.",
+    "response": "I would appreciate it if you could include at least one vegetable in your snack. Also, please make sure that the snack is nutritious and contains a good",
+    "reward": 0.8
+  }
+]
